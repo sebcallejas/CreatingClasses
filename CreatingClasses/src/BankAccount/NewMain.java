@@ -16,6 +16,7 @@ public class NewMain {
     public static void main(String[] args) {
         // And so it begins....
         System.out.println("Did i do somehting?");
+        System.out.println("Guess i did");
     }
 
 }
