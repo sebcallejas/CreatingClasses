@@ -12,4 +12,7 @@ package Student;
  */
 public class Student {
 //Lets get it done
+    int id;
+    int gpa;
+    int gradeLevel;
 }

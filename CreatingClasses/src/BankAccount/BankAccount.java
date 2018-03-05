@@ -12,4 +12,7 @@ package BankAccount;
  */
 public class BankAccount {
 //Lets get it done
+    private String balance;
+    private String userName;
+    private String passWord;
 }
